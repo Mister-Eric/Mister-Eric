@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Lullaby4D?color=1DA1F2&logo=twitter&style=for-the-badge)
 [![Website](https://img.shields.io/website?label=Lullaby4MyDemons.com&style=for-the-badge&url=https%3A%2F%2Flullaby4mydemons.com)](https://lullaby4mydemons.com)
 
-## I'm Currently pursuing a career in Full Stack Web Development at Lambda School
+## I'm currently pursuing a career in Full Stack Web Development at Lambda School
  
 - ⚡ Fun fact: I published a children's book in 2020 [book]
 
