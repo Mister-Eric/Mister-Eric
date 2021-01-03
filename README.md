@@ -1,7 +1,7 @@
 ### Hi there, I'm Eric! 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Lullaby4D?color=1DA1F2&logo=twitter&style=for-the-badge)
-![Website] (https://img.shields.io/badge/L4MD-personal%20blog-brightgreen&url=https://lullaby4mydemons.com)](https://lullaby4mydemons.com)
+[![Website](https://img.shields.io/website?label=Lullaby4MyDemons.com&style=for-the-badge&url=https%3A%2F%2Flullaby4mydemons.com)](https://lullaby4mydemons.com)
 
 ## I'm Currently pursuing a career in Full Stack Web Development at Lambda School
  
