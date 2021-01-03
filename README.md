@@ -1,7 +1,7 @@
 ### Hi there, I'm Eric! 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Lullaby4D?color=1DA1F2&logo=twitter&style=for-the-badge)
-[![Website] (https://img.shields.io/badge/L4MD-personal%20blog-brightgreen&url=https://lullaby4mydemons.com)](https://lullaby4mydemons.com)
+![Website] (https://img.shields.io/badge/L4MD-personal%20blog-brightgreen&url=https://lullaby4mydemons.com)](https://lullaby4mydemons.com)
 
 ## I'm Currently pursuing a career in Full Stack Web Development at Lambda School
  
@@ -32,11 +32,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+
+
 <!--END_SECTION:activity-->
 
 </details>
