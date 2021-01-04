@@ -5,7 +5,7 @@
 
 ## I'm currently pursuing a career in Full Stack Web Development at Lambda School
  
-- ⚡ Fun fact: I published a children's book in 2020 [book]
+- ⚡ Fun fact: I published a children's book in 2020[ Check out the book here]
 
 
 ### Connect with me:
