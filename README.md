@@ -7,9 +7,6 @@
  
 - ⚡ Fun fact: I published a children's book in 2020 [book]
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing-tau-ten.vercel.app/api/spotify-playing" alt="What am I listening to on Spotify" width="350" />](https://open.spotify.com/user/vsunjirsrpqskwh06shta4djv?si=5mwcNwDZTHa9qKt0-Wa53A)
 
 ### Connect with me:
 [<img align="left" alt="Eric Montgomery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
