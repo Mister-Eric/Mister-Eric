@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Eric Montgomery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mister-Eric | DEV Community" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devcommunity]
+[<img align="left" alt="Mister-Eric | DEV Community" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devcommunity]
 
 
 <br />
