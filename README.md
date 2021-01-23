@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img align="left" alt="Mister-Eric's GitHub Stats" src="https://github-readme-stats.mister-eric.vercel.app/api?username=Mister-Eric&show_icons=true&hide_border=true" />
+<img align="center" alt="Mister-Eric's GitHub Stats" src="https://github-readme-stats.mister-eric.vercel.app/api?username=Mister-Eric&show_icons=true&hide_border=true" />
 <br />
 
 [website]: https://l4md.com
