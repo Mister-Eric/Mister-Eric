@@ -32,12 +32,8 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Mister-Eric's GitHub Stats" src="https://github-readme-stats.mister-eric.vercel.app/api?username=Mister-Eric&show_icons=true&hide_border=true" />
-
-</details>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Mister-Eric's GitHub Stats" src="https://github-readme-stats.mister-eric.vercel.app/api?username=Mister-Eric&show_icons=true&hide_border=true" />
 ---
 <summary>:zap: GitHub Stats</summary>
 
