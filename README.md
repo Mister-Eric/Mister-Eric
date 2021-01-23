@@ -3,9 +3,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Lullaby4D?color=1DA1F2&logo=twitter&style=for-the-badge&url=https://twitter.com/Lullaby4D)](https://twitter.com/Lullaby4D)
 [![Website](https://img.shields.io/website?label=Lullaby4MyDemons.com&style=for-the-badge&url=https%3A%2F%2Flullaby4mydemons.com)](https://lullaby4mydemons.com)
 
-## I'm currently pursuing a career in Full Stack Web Development at Lambda School
+## Currently, I am a Full Stack Web Development student Lambda School. Before this I've owned, and operated, an IT services and support business in Lewes, Delaware, from 2004 until 2020. Ah, that magical year. #!$*&^ :-)
  
-- ⚡ Fun fact: I published a children's book in 2020 - Check out the book here: [book]
+🌱 I’m currently learning HTML, CSS, & JavaScript
+🇺🇸  I've driven through most of the "lower 48"
+⚡ Fun fact: I published a children's book in 2020. Check it out here: [book]
+
 
 
 ### Connect with me:
@@ -24,10 +27,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
 <!--START_SECTION:activity-->
 
 
