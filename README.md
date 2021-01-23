@@ -7,7 +7,7 @@
  
 🌱 I’m currently learning HTML, CSS, & JavaScript
 
-🇺🇸  I've driven through most of the "lower 48"
+🇺🇸  I've driven through all of the "lower 48" (many times)
 
 ⚡ Fun fact: I published a children's book in 2020. Check it out here: [book]
 
