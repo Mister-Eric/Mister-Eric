@@ -1,7 +1,7 @@
 ## Hi there, I'm Eric! 👋
 
-### Currently, I am a Full Stack Web Development student at Lambda School. Before this, I owned an IT service and support business in Lewes, Delaware, from 2004 until 2020. Ah, that magical year. #!$*&^ 🥴
- 
+### Currently, I am a Full Stack Web Development student at Lambda School. I suck at video games, but I enjoy them. :)
+
 🌱 I’m currently learning HTML, CSS, & JavaScript
 
 🇺🇸  I've driven through all of the "lower 48" (many times)
@@ -15,6 +15,7 @@
 [<img align="left" alt="Eric Montgomery | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mister-Eric | DEV Community" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devcommunity]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>][twitter]
+
 
 <br />
 
