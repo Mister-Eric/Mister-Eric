@@ -1,6 +1,6 @@
-### Hi there, I'm Eric! 👋
+## Hi there, I'm Eric! 👋
 
-## Currently, I am a Full Stack Web Development student at Lambda School. Before this, I owned an IT service and support business in Lewes, Delaware, from 2004 until 2020. Ah, that magical year. #!$*&^ 🥴
+### Currently, I am a Full Stack Web Development student at Lambda School. Before this, I owned an IT service and support business in Lewes, Delaware, from 2004 until 2020. Ah, that magical year. #!$*&^ 🥴
  
 🌱 I’m currently learning HTML, CSS, & JavaScript
 
@@ -31,7 +31,6 @@
 <img align="center" alt="Mister-Eric's GitHub Stats" src="https://github-readme-stats.mister-eric.vercel.app/api?username=Mister-Eric&show_icons=true&hide_border=true" />
 <br />
 
-[website]: https://l4md.com
 [book]: https://amzn.to/2X6mhAm
 [twitter]: https://twitter.com/Lullaby4D
 [linkedin]: https://linkedin.com/in/mrericmontgomery/
