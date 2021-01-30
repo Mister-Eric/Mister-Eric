@@ -3,9 +3,6 @@
 ### Currently, I am a Full Stack Web Development student at Lambda School. I suck at video games, but I enjoy them. :)
 
 🌱 I’m currently learning HTML, CSS, & JavaScript
-
-🇺🇸  I've driven through all of the "lower 48" (many times)
-
 ⚡ Fun fact: I published a children's book in 2020. Check it out here: [book]
 
 
